@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+	<TargetFrameworks>net6.0-windows;net48</TargetFrameworks>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>false</ImplicitUsings>
+	<LangVersion>preview</LangVersion>
+	<Nullable>enable</Nullable>
+	<AutoGenerateBindingRedirects>True</AutoGenerateBindingRedirects>
+	<DebugType>embedded</DebugType>
+	<ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+</Project>
